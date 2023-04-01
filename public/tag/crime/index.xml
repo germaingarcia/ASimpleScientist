@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crime | A simple Scientist</title>
+    <link>https://example.com/tag/crime/</link>
+      <atom:link href="https://example.com/tag/crime/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crime</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Crime</title>
+      <link>https://example.com/tag/crime/</link>
+    </image>
+    
+    <item>
+      <title>Visual crime pattern analysis</title>
+      <link>https://example.com/talk/visual-crime-pattern-analysis/</link>
+      <pubDate>Thu, 27 Oct 2022 15:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/visual-crime-pattern-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science for Crime Analysis in Big Cities</title>
+      <link>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</link>
+      <pubDate>Sat, 01 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analytics for Urban Crime Analysis - Quantil - Colombia</title>
+      <link>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</link>
+      <pubDate>Mon, 22 Feb 2021 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crime Analytics</title>
+      <link>https://example.com/project/crime/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/crime/</guid>
+      <description>&lt;p&gt;Visual Data Crime is a research project that aims at creating computational systems to help identify, understand, and predict criminality. The goal is to explore data from space-temporal crime occurrences, safety perception, socioeconomic traits, and amenity features to help specialists and decision-makers deal with criminality. Knowing the wide range of analyses on criminal behavior and its relations with other variables, this project relies on jointly using machine learning, visualization systems, and optimization methods. Machine learning is used to automatically find crime patterns. Visualization frameworks to help decision-makers to understand found patterns as well as directly search for those patterns. Optimization methods are used to tune and help explaining learning machines, and to automatically improve the visualization tools.&lt;/p&gt;
+&lt;h1 id=&#34;researches&#34;&gt;Researches&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Germain García Zanabria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Gomez Nieto, UCSP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vgc.poly.edu/~jpocom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Poco, EMAp/FGV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.icmc.usp.br/gnonato/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luis Gustavo Nonato, USP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
