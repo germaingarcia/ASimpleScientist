@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crime | A simple Scientist</title>
-    <link>https://example.com/tag/crime/</link>
-      <atom:link href="https://example.com/tag/crime/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://germaingarcia.github.io/ASimpleScientist/tag/crime/</link>
+      <atom:link href="https://germaingarcia.github.io/ASimpleScientist/tag/crime/index.xml" rel="self" type="application/rss+xml" />
     <description>Crime</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://germaingarcia.github.io/ASimpleScientist/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
       <title>Crime</title>
-      <link>https://example.com/tag/crime/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/tag/crime/</link>
     </image>
     
     <item>
       <title>Visual crime pattern analysis</title>
-      <link>https://example.com/talk/visual-crime-pattern-analysis/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/visual-crime-pattern-analysis/</link>
       <pubDate>Thu, 27 Oct 2022 15:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/visual-crime-pattern-analysis/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/visual-crime-pattern-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science for Crime Analysis in Big Cities</title>
-      <link>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/data-science-for-crime-analysis-in-big-cities/</link>
       <pubDate>Sat, 01 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/data-science-for-crime-analysis-in-big-cities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Analytics for Urban Crime Analysis - Quantil - Colombia</title>
-      <link>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</link>
       <pubDate>Mon, 22 Feb 2021 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crime Analytics</title>
-      <link>https://example.com/project/crime/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/project/crime/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/crime/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/project/crime/</guid>
       <description>&lt;p&gt;Visual Data Crime is a research project that aims at creating computational systems to help identify, understand, and predict criminality. The goal is to explore data from space-temporal crime occurrences, safety perception, socioeconomic traits, and amenity features to help specialists and decision-makers deal with criminality. Knowing the wide range of analyses on criminal behavior and its relations with other variables, this project relies on jointly using machine learning, visualization systems, and optimization methods. Machine learning is used to automatically find crime patterns. Visualization frameworks to help decision-makers to understand found patterns as well as directly search for those patterns. Optimization methods are used to tune and help explaining learning machines, and to automatically improve the visualization tools.&lt;/p&gt;
 &lt;h1 id=&#34;researches&#34;&gt;Researches&lt;/h1&gt;
 &lt;ul&gt;

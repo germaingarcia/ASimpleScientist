@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A simple Scientist</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://germaingarcia.github.io/ASimpleScientist/</link>
+      <atom:link href="https://germaingarcia.github.io/ASimpleScientist/index.xml" rel="self" type="application/rss+xml" />
     <description>A simple Scientist</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://germaingarcia.github.io/ASimpleScientist/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
       <title>A simple Scientist</title>
-      <link>https://example.com/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/</link>
     </image>
     
     <item>
       <title>Supporting Decision-Making Process on Higher Education Dropout by Analyzing Academic, Socioeconomic, and Equity Factors through Machine Learning and Survival Analysis Methods in the Latin American Context</title>
-      <link>https://example.com/publication/supporting/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/supporting/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/supporting/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/supporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SDA-Vis A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://example.com/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</link>
       <pubDate>Fri, 28 Oct 2022 15:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual crime pattern analysis</title>
-      <link>https://example.com/talk/visual-crime-pattern-analysis/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/visual-crime-pattern-analysis/</link>
       <pubDate>Thu, 27 Oct 2022 15:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/visual-crime-pattern-analysis/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/visual-crime-pattern-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science for Crime Analysis in Big Cities</title>
-      <link>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/data-science-for-crime-analysis-in-big-cities/</link>
       <pubDate>Sat, 01 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/data-science-for-crime-analysis-in-big-cities/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/data-science-for-crime-analysis-in-big-cities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Do Curricular Design Changes Impact Computer Science Programs? - A Case Study at San Pablo Catholic University in Peru</title>
-      <link>https://example.com/publication/howdo/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/howdo/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/howdo/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/howdo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trajectory Anomaly Detection based on Similarity Analysis</title>
-      <link>https://example.com/publication/trajectory/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/trajectory/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/trajectory/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/trajectory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Analytics for Urban Crime Analysis - Quantil - Colombia</title>
-      <link>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</link>
       <pubDate>Mon, 22 Feb 2021 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/visual-analytics-for-urban-crime-analysis-quantil-colombia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -150,9 +150,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -189,7 +189,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://example.com/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://germaingarcia.github.io/ASimpleScientist/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -200,25 +200,25 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Mirante - A visualization tool for analyzing urban crimes</title>
-      <link>https://example.com/publication/mirante/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/mirante/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mirante/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/mirante/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
-      <link>https://example.com/publication/danie_uno/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/danie_uno/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/danie_uno/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/danie_uno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -318,7 +318,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-396427581&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-814759632&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -328,7 +328,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-396427581&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-814759632&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -610,9 +610,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -669,9 +669,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/crime/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/slides/crime/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/crime/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/slides/crime/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -794,9 +794,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -919,17 +919,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>iStar (i) An interactive star coordinates approach for high-dimensional data exploration</title>
-      <link>https://example.com/publication/istar/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/istar/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/istar/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/istar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crime Analytics</title>
-      <link>https://example.com/project/crime/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/project/crime/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/crime/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/project/crime/</guid>
       <description>&lt;p&gt;Visual Data Crime is a research project that aims at creating computational systems to help identify, understand, and predict criminality. The goal is to explore data from space-temporal crime occurrences, safety perception, socioeconomic traits, and amenity features to help specialists and decision-makers deal with criminality. Knowing the wide range of analyses on criminal behavior and its relations with other variables, this project relies on jointly using machine learning, visualization systems, and optimization methods. Machine learning is used to automatically find crime patterns. Visualization frameworks to help decision-makers to understand found patterns as well as directly search for those patterns. Optimization methods are used to tune and help explaining learning machines, and to automatically improve the visualization tools.&lt;/p&gt;
 &lt;h1 id=&#34;researches&#34;&gt;Researches&lt;/h1&gt;
 &lt;ul&gt;
@@ -943,9 +943,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Dropout Analysis</title>
-      <link>https://example.com/project/education/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/project/education/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/education/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/project/education/</guid>
       <description>&lt;p&gt;This project proposes to analyze data from educational environments, with the aim of studying relevant issues, challenges, and opportunities for improvement. Our proposal will focus on three main objectives: (Obj 1) Video Analysis, (Obj 2) Social Network Analysis, and (Obj 3) Socioeconomic and Academic Analysis, described below.&lt;/p&gt;
 &lt;p&gt;In Obj 1, Video Analysis, data generated from security cameras installed in educational environments will be studied, and it is divided into three main tasks. The first task focuses on detecting the level of attention of a student in class and their emotional state, which can affect their performance, for example, fatigue, anger, etc. This way, the teacher can identify when their students lose interest and take measures to improve their teaching strategies. The second task is the identification of physical aggression between students so that alerts can be sent to maintain their integrity. The third task is an algorithm that allows for the automatic registration of student attendance so that the institution has up-to-date data on the attendance percentage of its students and can take appropriate actions.&lt;/p&gt;
 &lt;p&gt;In Obj 2, Social Network Analysis, the goal is to process the social interactions of educational communities (students and teachers) to detect verbal violence (cyberbullying) in virtual environments (the web), such as insults, teasing, spreading rumors, among others. This automatic detection will be carried out using deep learning, which will be complemented with social network analysis algorithms to perform an analysis of the interactions between students on social networks.&lt;/p&gt;
@@ -962,41 +962,41 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Feature-based Trajectory Anomaly Detection</title>
-      <link>https://example.com/publication/featurebased/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/featurebased/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/featurebased/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/featurebased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
-      <link>https://example.com/publication/crimanalyzer/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/crimanalyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/crimanalyzer/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/crimanalyzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CriPAV - Street-Level Crime Patterns Analysis and Visualization</title>
-      <link>https://example.com/publication/cripav/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/cripav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cripav/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/cripav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://example.com/publication/sda_vis/</link>
+      <link>https://germaingarcia.github.io/ASimpleScientist/publication/sda_vis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sda_vis/</guid>
+      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/sda_vis/</guid>
       <description></description>
     </item>
     
