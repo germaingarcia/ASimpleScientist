@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Street-Level | A simple Scientist</title>
-    <link>https://germaingarcia.github.io/ASimpleScientist/tag/street-level/</link>
-      <atom:link href="https://germaingarcia.github.io/ASimpleScientist/tag/street-level/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/street-level/</link>
+      <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/street-level/index.xml" rel="self" type="application/rss+xml" />
     <description>Street-Level</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://germaingarcia.github.io/ASimpleScientist/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
+      <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
       <title>Street-Level</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/tag/street-level/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/street-level/</link>
     </image>
     
     <item>
       <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/crimanalyzer/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/crimanalyzer/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CriPAV - Street-Level Crime Patterns Analysis and Visualization</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/cripav/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/cripav/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</guid>
       <description></description>
     </item>
     

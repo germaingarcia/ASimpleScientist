@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | A simple Scientist</title>
-    <link>https://germaingarcia.github.io/ASimpleScientist/publication-type/1/</link>
-      <atom:link href="https://germaingarcia.github.io/ASimpleScientist/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/</link>
+      <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://germaingarcia.github.io/ASimpleScientist/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
+      <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication-type/1/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/</link>
     </image>
     
     <item>
       <title>Trajectory Anomaly Detection based on Similarity Analysis</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/trajectory/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/trajectory/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/trajectory/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/trajectory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mirante - A visualization tool for analyzing urban crimes</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/mirante/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/mirante/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/danie_uno/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/danie_uno/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iStar (i) An interactive star coordinates approach for high-dimensional data exploration</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/publication/istar/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/publication/istar/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</guid>
       <description></description>
     </item>
     

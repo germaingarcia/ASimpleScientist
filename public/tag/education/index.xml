@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education | A simple Scientist</title>
-    <link>https://germaingarcia.github.io/ASimpleScientist/tag/education/</link>
-      <atom:link href="https://germaingarcia.github.io/ASimpleScientist/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</link>
+      <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2022 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://germaingarcia.github.io/ASimpleScientist/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
+      <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
       <title>Education</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/tag/education/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</link>
     </image>
     
     <item>
       <title>SDA-Vis A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</link>
       <pubDate>Fri, 28 Oct 2022 15:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dropout Analysis</title>
-      <link>https://germaingarcia.github.io/ASimpleScientist/project/education/</link>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/project/education/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/ASimpleScientist/project/education/</guid>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/project/education/</guid>
       <description>&lt;p&gt;This project proposes to analyze data from educational environments, with the aim of studying relevant issues, challenges, and opportunities for improvement. Our proposal will focus on three main objectives: (Obj 1) Video Analysis, (Obj 2) Social Network Analysis, and (Obj 3) Socioeconomic and Academic Analysis, described below.&lt;/p&gt;
 &lt;p&gt;In Obj 1, Video Analysis, data generated from security cameras installed in educational environments will be studied, and it is divided into three main tasks. The first task focuses on detecting the level of attention of a student in class and their emotional state, which can affect their performance, for example, fatigue, anger, etc. This way, the teacher can identify when their students lose interest and take measures to improve their teaching strategies. The second task is the identification of physical aggression between students so that alerts can be sent to maintain their integrity. The third task is an algorithm that allows for the automatic registration of student attendance so that the institution has up-to-date data on the attendance percentage of its students and can take appropriate actions.&lt;/p&gt;
 &lt;p&gt;In Obj 2, Social Network Analysis, the goal is to process the social interactions of educational communities (students and teachers) to detect verbal violence (cyberbullying) in virtual environments (the web), such as insults, teasing, spreading rumors, among others. This automatic detection will be carried out using deep learning, which will be complemented with social network analysis algorithms to perform an analysis of the interactions between students on social networks.&lt;/p&gt;
