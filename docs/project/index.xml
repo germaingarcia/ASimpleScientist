@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | A simple Scientist</title>
+    <link>https://germaingarcia.github.io/GermainGarciaZanabria/project/</link>
+      <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hu84b6b5943bbecf3b01ff50dae7dfa3a6_1204469_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/project/</link>
+    </image>
+    
+    <item>
+      <title>Crime Analytics</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/project/crime/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/project/crime/</guid>
+      <description>&lt;p&gt;Visual Data Crime is a research project that aims at creating computational systems to help identify, understand, and predict criminality. The goal is to explore data from space-temporal crime occurrences, safety perception, socioeconomic traits, and amenity features to help specialists and decision-makers deal with criminality. Knowing the wide range of analyses on criminal behavior and its relations with other variables, this project relies on jointly using machine learning, visualization systems, and optimization methods. Machine learning is used to automatically find crime patterns. Visualization frameworks to help decision-makers to understand found patterns as well as directly search for those patterns. Optimization methods are used to tune and help explaining learning machines, and to automatically improve the visualization tools.&lt;/p&gt;
+&lt;h1 id=&#34;researches&#34;&gt;Researches&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Germain García Zanabria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Gomez Nieto, UCSP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vgc.poly.edu/~jpocom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Poco, EMAp/FGV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.icmc.usp.br/gnonato/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luis Gustavo Nonato, USP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dropout Analysis</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/project/education/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/project/education/</guid>
+      <description>&lt;p&gt;This project proposes to analyze data from educational environments, with the aim of studying relevant issues, challenges, and opportunities for improvement. Our proposal will focus on three main objectives: (Obj 1) Video Analysis, (Obj 2) Social Network Analysis, and (Obj 3) Socioeconomic and Academic Analysis, described below.&lt;/p&gt;
+&lt;p&gt;In Obj 1, Video Analysis, data generated from security cameras installed in educational environments will be studied, and it is divided into three main tasks. The first task focuses on detecting the level of attention of a student in class and their emotional state, which can affect their performance, for example, fatigue, anger, etc. This way, the teacher can identify when their students lose interest and take measures to improve their teaching strategies. The second task is the identification of physical aggression between students so that alerts can be sent to maintain their integrity. The third task is an algorithm that allows for the automatic registration of student attendance so that the institution has up-to-date data on the attendance percentage of its students and can take appropriate actions.&lt;/p&gt;
+&lt;p&gt;In Obj 2, Social Network Analysis, the goal is to process the social interactions of educational communities (students and teachers) to detect verbal violence (cyberbullying) in virtual environments (the web), such as insults, teasing, spreading rumors, among others. This automatic detection will be carried out using deep learning, which will be complemented with social network analysis algorithms to perform an analysis of the interactions between students on social networks.&lt;/p&gt;
+&lt;p&gt;Finally, in Obj 3, Socioeconomic and Academic Analysis, we seek to understand and predict the behavior of students using socioeconomic and academic data in order to identify cases of early dropout and low academic performance. For this, a predictive model will be generated that allows for forecasting possible behaviors in students, and the findings will be useful for educators, principals, or decision-makers to develop strategies and solutions to reduce dropout rates and consequently increase academic levels. For these purposes, algorithms based on data science, computer vision, machine learning, deep learning, and stochastic models will be used.&lt;/p&gt;
+&lt;h1 id=&#34;researches&#34;&gt;Researches&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Germain García Zanabria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Gomez Nieto, UCSP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vgc.poly.edu/~jpocom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Poco, EMAp/FGV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=16332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gutierrez, USP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
