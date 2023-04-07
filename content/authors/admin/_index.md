@@ -51,7 +51,7 @@ social:
   link: uploads/Curriculum_Ingles.pdf
 status:
   icon: ☕️
-superuser: true
+superuser: true 
 title: Germain Garcia-Zanabria
 ---
 I'am Germain Garcia-Zanabria, I received my Ph.D. degree (2017-2021) in Computer Science (Cs) from [Sao Paulo University (USP)](https://www5.usp.br/) specifically at [ICMC institute](https://www.icmc.usp.br/), Brazil. I received my Master's Degree (2014-2016) in Cs at [Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/), Peru. I conducted my Post-Doctoral research on dropout patterns in Peruvian universities at the Center for Research and Innovation in Computer Science (RICS) of UCSP. I was a visiting researcher (2019) at the [Visualization Imaging and Data Analysis Center (VIDA)](https://vida.engineering.nyu.edu/) of New York University ([NYU](https://www.nyu.edu/)), USA. My areas of interest are data visualization, visual analytics, machine learning, data science, crime analysis, crime prediction, dropout analysis, geo-referenced data, Spatiotemporal analysis, and computer science for social goods.
