@@ -21,10 +21,34 @@
     </item>
     
     <item>
+      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Feature-based Trajectory Anomaly Detection</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How Do Curricular Design Changes Impact Computer Science Programs? - A Case Study at San Pablo Catholic University in Peru</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/howdo/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/howdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
       <description></description>
     </item>
     
@@ -37,18 +61,26 @@
     </item>
     
     <item>
+      <title>CriPAV - Street-Level Crime Patterns Analysis and Visualization</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mirante - A visualization tool for analyzing urban crimes</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</link>
-      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
+      <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</guid>
       <description></description>
     </item>
     
@@ -57,38 +89,6 @@
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Feature-based Trajectory Anomaly Detection</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CriPAV - Street-Level Crime Patterns Analysis and Visualization</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
       <description></description>
     </item>
     

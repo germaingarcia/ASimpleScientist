@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Project in collaboration with FGV - http://www.visualdslab.com/projects/CrimeAnalytics
+  caption: Project in collaboration with UCSP - https://cs.ucsp.edu.pe/
   focal_point: Smart
 <!--- links:
 - icon: twitter
@@ -31,6 +31,10 @@ Finally, in Obj 3, Socioeconomic and Academic Analysis, we seek to understand an
 # Researches
 
 * Germain García Zanabria
-* [Erick Gomez Nieto, UCSP](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017384)
+* [Erick Gomez Nieto, UCSP](https://sites.google.com/site/erickgomeznieto/)
 * [Jorge Poco, EMAp/FGV](https://vgc.poly.edu/~jpocom/)
-* [Daniel Gutierrez, USP](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=16332)
+* [Daniel Gutierrez, UCSP](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=16332)
+
+### Project's Links
+
+* [Ucsp Dropout Project](https://cs.ucsp.edu.pe/proyectos/ciencia-de-datos-en-apoyo-a-la-educacion-nacional-metodos-computacionales-para-la-deteccion-de-problemas-de-violencia-y-desercion-en-entornos-educativos/)

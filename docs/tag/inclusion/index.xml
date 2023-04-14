@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>inclusion | A simple Scientist</title>
+    <title>Inclusion | A simple Scientist</title>
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/inclusion/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/inclusion/index.xml" rel="self" type="application/rss+xml" />
-    <description>inclusion</description>
+    <description>Inclusion</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
-      <title>inclusion</title>
+      <title>Inclusion</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/inclusion/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/howdo/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/howdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
       <description></description>
     </item>
     

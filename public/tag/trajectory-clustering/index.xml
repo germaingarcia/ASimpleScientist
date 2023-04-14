@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trajectory clustering | A simple Scientist</title>
+    <title>Trajectory clustering | A simple Scientist</title>
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/trajectory-clustering/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/trajectory-clustering/index.xml" rel="self" type="application/rss+xml" />
-    <description>trajectory clustering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Trajectory clustering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
-      <title>trajectory clustering</title>
+      <title>Trajectory clustering</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/trajectory-clustering/</link>
     </image>
     
     <item>
       <title>A Feature-based Trajectory Anomaly Detection</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/featurebased/</guid>
       <description></description>
     </item>

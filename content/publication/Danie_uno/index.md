@@ -1,6 +1,12 @@
 ---
 abstract: Reducing the students' dropout is one of the biggest challenges faced by educational institutions, especially in underdeveloped countries. Identification of the student with the highest risk of dropping out is generally used to apply corrective actions (WHO). Therefore, it is also important to determine WHEN a student will drop out, which is fundamental to planning preventive actions. In this work, we perform a study to quantitatively compare several approaches to address the early identification of dropout students in universities. We categorize our study into three main methods families, i.e., analytical methods, traditional classification methods, and probabilistic methods. The first is exploited at preprocessing step for selecting significant variables into the dropout identification task. The second uses machine learning models to classify students into dropout prone or non-dropout prone classes. The third family uses survival models to determine when the student would desert. To evaluate the predictive capacity of the classification models, the Kappa coefficient was incorporated into the usual machine learning metrics and shows that Kappa is handy for evaluating performance in unbalanced data. Similarly, in the survival models, the concordance index was applied to evaluate the predictive capacity. Our approach was applied over a real data set of Peruvian university graduate students to identify when and who will drop out.
 author_notes:
+- First Author
+- Writing - Visualization
+- Writing
+- Writing
+- Visualization Expert
+- Supervisor - Writing - Visualization Expert
 authors:
 - Daniel A Gutierrez Pachas 
 - admin
@@ -8,7 +14,7 @@ authors:
 - Guillermo Camara-Chavez
 - Jorge Poco
 - Erick Gomez-Nieto
-date: "2020-10-25"  
+date: "2021-12-21T00:00:00Z"  
 doi: "10.1109/CLEI53233.2021.9640119"
 featured: false
 image:
@@ -20,10 +26,14 @@ publication: In *2021 XLVII Latin American Computing Conference (CLEI)*
 publication_short: In *CLEI*
 publication_types:
 - "1"
-publishDate: "2020-10-25"
+publishDate: "2021-12-21T00:00:00Z"
 slides: 
 summary: 
-tags: []
+tags:
+- Curricular design
+- Inclusion
+- Student dropout
+- Survival analysis
 title: A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk
 url_code: 
 url_dataset: 

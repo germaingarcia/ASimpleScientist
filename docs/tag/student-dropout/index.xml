@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>student dropout | A simple Scientist</title>
+    <title>Student dropout | A simple Scientist</title>
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/student-dropout/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/student-dropout/index.xml" rel="self" type="application/rss+xml" />
-    <description>student dropout</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <description>Student dropout</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
-      <title>student dropout</title>
+      <title>Student dropout</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/student-dropout/</link>
     </image>
+    
+    <item>
+      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Do Curricular Design Changes Impact Computer Science Programs? - A Case Study at San Pablo Catholic University in Peru</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
+      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
       <description></description>
     </item>
     

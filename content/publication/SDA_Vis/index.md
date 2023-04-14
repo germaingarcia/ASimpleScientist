@@ -8,7 +8,7 @@ authors:
 - Guillermo Cámara-Chávez
 - Jorge Poco
 - Erick Gomez-Nieto
-date: "2022"
+date: "2022-07-06T00:00:00Z"
 doi: "https://doi.org/10.3390/app12125785"
 featured: true
 image:
@@ -20,14 +20,14 @@ publication: '*Applied Sciences*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022"
+publishDate: "2022-07-06T00:00:00Z"
 slides: 
 summary: SDA-Vis system - a set of linked visual resources enabling the exploration of dropout students' information and their counterfactual explanations.
 tags:
-- student dropout
-- counterfactual explanation
-- visual learning explanation
-- visual analytics
+- Student dropout
+- Counterfactual explanation
+- Visual learning explanation
+- Visual analytics
 title: SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration
 url_code: 
 url_dataset: ""

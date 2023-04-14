@@ -5,7 +5,7 @@
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/visual-analytics/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Analytics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
       <title>Visual Analytics</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</guid>
+      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CriPAV - Street-Level Crime Patterns Analysis and Visualization</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/cripav/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SDA-Vis - A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/sda_vis/</guid>
+      <title>CrimAnalyzer - Understanding Crime Patterns in São Paulo</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/crimanalyzer/</guid>
       <description></description>
     </item>
     

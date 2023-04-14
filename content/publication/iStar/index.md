@@ -3,7 +3,7 @@ abstract: Star Coordinates is an important visualization method able to reveal p
 author_notes:
 - First Authot
 - Equal contribution
-- Coordinator
+- Coordinator - Writing
 authors:
 - admin
 - LG Nonato
@@ -15,11 +15,11 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: ['Multidimensional Projection']
 publication: '*Computers & Graphics*'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2016-11-01T00:00:00Z"
 slides: 
 summary: 

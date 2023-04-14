@@ -5,12 +5,20 @@
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trajectory Anomaly Detection based on Similarity Analysis</title>
@@ -23,24 +31,8 @@
     <item>
       <title>Mirante - A visualization tool for analyzing urban crimes</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</link>
-      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/mirante/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/danie_uno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iStar (i) An interactive star coordinates approach for high-dimensional data exploration</title>
-      <link>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/publication/istar/</guid>
       <description></description>
     </item>
     

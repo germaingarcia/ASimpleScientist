@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Project in collaboration with UCSP - https://cs.ucsp.edu.pe/
+  caption: Project in collaboration with FGV - http://www.visualdslab.com/projects/CrimeAnalytics and UCSP - https://cs.ucsp.edu.pe/ and ICMC https://www.icmc.usp.br/
   focal_point: Smart
 <!--- links:
 - icon: twitter
@@ -25,6 +25,10 @@ Visual Data Crime is a research project that aims at creating computational syst
 # Researches
 
 * Germain García Zanabria
-* [Erick Gomez Nieto, UCSP](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017384)
+* [Erick Gomez Nieto, UCSP](https://sites.google.com/site/erickgomeznieto/)
 * [Jorge Poco, EMAp/FGV](https://vgc.poly.edu/~jpocom/)
 * [Luis Gustavo Nonato, USP](https://sites.icmc.usp.br/gnonato/)
+
+# Project's Links
+
+* [FGV Crime Project](http://www.visualdslab.com/projects/CrimeAnalytics )
