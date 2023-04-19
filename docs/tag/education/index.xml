@@ -5,12 +5,20 @@
     <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</link>
       <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2022 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
       <title>Education</title>
       <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</link>
     </image>
+    
+    <item>
+      <title>CSDA-VIS, Sistema visual interactivo para la detección temprana del abandono estudiantil</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/talk/csda-vis-sistema-visual-interactivo-para-la-deteccion-temprana-del-abandono-estudiantil/</link>
+      <pubDate>Wed, 19 Apr 2023 14:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/talk/csda-vis-sistema-visual-interactivo-para-la-deteccion-temprana-del-abandono-estudiantil/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SDA-Vis A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</title>

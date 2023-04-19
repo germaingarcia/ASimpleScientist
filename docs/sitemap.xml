@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tag/counterfactual/</loc>
+    <lastmod>2023-04-19T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/talk/csda-vis-sistema-visual-interactivo-para-la-deteccion-temprana-del-abandono-estudiantil/</loc>
+    <lastmod>2023-04-19T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</loc>
+    <lastmod>2023-04-19T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/event/</loc>
+    <lastmod>2023-04-19T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tags/</loc>
+    <lastmod>2023-04-19T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://germaingarcia.github.io/GermainGarciaZanabria/publication-type/2/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,18 +48,6 @@
   </url><url>
     <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tag/survival-analysis/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/tag/education/</loc>
-    <lastmod>2022-10-28T15:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://germaingarcia.github.io/GermainGarciaZanabria/event/</loc>
-    <lastmod>2022-10-28T15:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://germaingarcia.github.io/GermainGarciaZanabria/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/</loc>

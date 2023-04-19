@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: April 14, 2023 --><html lang="en-us" >
+<!-- Last Published: April 19, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -236,6 +236,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWYN18LQRM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-SWYN18LQRM', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -649,13 +688,15 @@
   <h2>Latest</h2>
   <ul>
     
+      <li><a href="/GermainGarciaZanabria/event/">Recent &amp; Upcoming Talks</a></li>
+    
+      <li><a href="/GermainGarciaZanabria/talk/csda-vis-sistema-visual-interactivo-para-la-deteccion-temprana-del-abandono-estudiantil/">CSDA-VIS, Sistema visual interactivo para la detección temprana del abandono estudiantil</a></li>
+    
       <li><a href="/GermainGarciaZanabria/publication/supporting/">Supporting Decision-Making Process on Higher Education Dropout by Analyzing Academic, Socioeconomic, and Equity Factors through Machine Learning and Survival Analysis Methods in the Latin American Context</a></li>
     
       <li><a href="/GermainGarciaZanabria/publication/">Publications</a></li>
     
       <li><a href="/GermainGarciaZanabria/talk/sda-vis-a-visualization-system-for-student-dropout-analysis-based-on-counterfactual-exploration/">SDA-Vis A Visualization System for Student Dropout Analysis Based on Counterfactual Exploration</a></li>
-    
-      <li><a href="/GermainGarciaZanabria/event/">Recent &amp; Upcoming Talks</a></li>
     
       <li><a href="/GermainGarciaZanabria/talk/visual-crime-pattern-analysis/">Visual crime pattern analysis</a></li>
     
@@ -666,8 +707,6 @@
       <li><a href="/GermainGarciaZanabria/publication/featurebased/">A Feature-based Trajectory Anomaly Detection</a></li>
     
       <li><a href="/GermainGarciaZanabria/publication/howdo/">How Do Curricular Design Changes Impact Computer Science Programs? - A Case Study at San Pablo Catholic University in Peru</a></li>
-    
-      <li><a href="/GermainGarciaZanabria/publication/danie_uno/">A comparative study of WHO and WHEN prediction approaches for early identification of university students at dropout risk</a></li>
     
   </ul>
   
