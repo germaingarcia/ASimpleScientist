@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cv | A simple Scientist</title>
+    <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/cv/</link>
+      <atom:link href="https://germaingarcia.github.io/GermainGarciaZanabria/tag/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>cv</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://germaingarcia.github.io/GermainGarciaZanabria/media/icon_hua6e9169acf26d7f410d692aadd894198_165254_512x512_fill_lanczos_center_3.png</url>
+      <title>cv</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/tag/cv/</link>
+    </image>
+    
+    <item>
+      <title>CV documentado con Python</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/material_adicional/material/figs/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/material_adicional/material/figs/</guid>
+      <description>&lt;h2 id=&#34;outline---excel&#34;&gt;Outline - Excel&lt;/h2&gt;
+&lt;p&gt;El primer paso de este proceso es definir el índice de nuestro cv, para lo cual, una buena alternativa es un documento spreadsheet (&amp;ldquo;Template_CV.xlsx&amp;rdquo;). Este documento debe tener tiene que tener la hoja &lt;strong&gt;&amp;ldquo;Índice&amp;rdquo;&lt;/strong&gt; (como se muestra en la  figura)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indice.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;esta hoja contiene:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Página:&lt;/strong&gt; Nombre de hoja excel donde estarán organizados los datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./pagina.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Título:&lt;/strong&gt; Título de la Sección con el que irá el CV final&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Orden:&lt;/strong&gt; Órden en que se listará en el CV final&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Planilla:&lt;/strong&gt; Plantilla que se usará para estructurar la sección.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;En el caso de la &lt;em&gt;Planilla&lt;/em&gt; se tiene 3 alternativas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Información_personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./informacion_personal.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Título_Anho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./anho.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Lista_items (Lista simple del contenido)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;organización-documentos-pdf&#34;&gt;Organización documentos pdf&lt;/h2&gt;
+&lt;p&gt;Todos los documentos mencionados en las columnas &lt;strong&gt;LinkDocumento&lt;/strong&gt; del archivo &lt;em&gt;Template_CV.xlsx&lt;/em&gt; tienen que estar contenidos en la carpeta &lt;strong&gt;pdf_files&lt;/strong&gt; en formato PDF.&lt;/p&gt;
+&lt;h2 id=&#34;ejecución&#34;&gt;Ejecución&lt;/h2&gt;
+&lt;p&gt;El código consta de 3 archivos python:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Merge_PDF.py&lt;/strong&gt; : Genera la compilación de los documentos pdf&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;putNumber.py&lt;/strong&gt; : Coloca número de página a los PDFs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV_Maker.py&lt;/strong&gt;  : Archivo principal que genera el *.docx y *.pdf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para la ejecución se posiciona en la carpeta y ejecutar el comando:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python Merge_PDF.py
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;resultado&#34;&gt;Resultado&lt;/h2&gt;
+&lt;p&gt;Una vez ejecutado, se generarán 2 archivos en la carpeta &lt;em&gt;CV_Template_result.docx&lt;/em&gt; y &lt;em&gt;CV_Combinado.pdf&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./ejemploSalida.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CV_Template_result.docx&lt;/em&gt; contiene la información del Curriculum mientras &lt;em&gt;CV_Combinado.pdf&lt;/em&gt; contiene los documentos ordenado basado en la información de &lt;em&gt;Template_CV.xlsx&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CV_Template_result.docx&lt;/em&gt; puede ser alterado a preferencia del usuario, y una vez convertido a pdf, se puede utilizar aplicaciones como &lt;em&gt;PDFsam&lt;/em&gt; para combinar los 2 archivos. En caso de no usar el número de página, puede usar el archivo &lt;em&gt;temp.pdf&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;código&#34;&gt;Código&lt;/h2&gt;
+&lt;p&gt;El código completo se puede encontrar en el siguiente &lt;a href=&#34;https://github.com/germaingarcia/CV_documentado_python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV documentado con Python</title>
+      <link>https://germaingarcia.github.io/GermainGarciaZanabria/post/cv_documentado/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://germaingarcia.github.io/GermainGarciaZanabria/post/cv_documentado/</guid>
+      <description>&lt;h2 id=&#34;outline---excel&#34;&gt;Outline - Excel&lt;/h2&gt;
+&lt;p&gt;El primer paso de este proceso es definir el índice de nuestro cv, para lo cual, una buena alternativa es un documento spreadsheet (&amp;ldquo;Template_CV.xlsx&amp;rdquo;). Este documento debe tener tiene que tener la hoja &lt;strong&gt;&amp;ldquo;Índice&amp;rdquo;&lt;/strong&gt; (como se muestra en la  figura)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indice.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;esta hoja contiene:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Página:&lt;/strong&gt; Nombre de hoja excel donde estarán organizados los datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./pagina.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Título:&lt;/strong&gt; Título de la Sección con el que irá el CV final&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Orden:&lt;/strong&gt; Órden en que se listará en el CV final&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Planilla:&lt;/strong&gt; Plantilla que se usará para estructurar la sección.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;En el caso de la &lt;em&gt;Planilla&lt;/em&gt; se tiene 3 alternativas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Información_personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./informacion_personal.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Título_Anho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./anho.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Lista_items (Lista simple del contenido)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;organización-documentos-pdf&#34;&gt;Organización documentos pdf&lt;/h2&gt;
+&lt;p&gt;Todos los documentos mencionados en las columnas &lt;strong&gt;LinkDocumento&lt;/strong&gt; del archivo &lt;em&gt;Template_CV.xlsx&lt;/em&gt; tienen que estar contenidos en la carpeta &lt;strong&gt;pdf_files&lt;/strong&gt; en formato PDF.&lt;/p&gt;
+&lt;h2 id=&#34;ejecución&#34;&gt;Ejecución&lt;/h2&gt;
+&lt;p&gt;El código consta de 3 archivos python:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Merge_PDF.py&lt;/strong&gt; : Genera la compilación de los documentos pdf&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;putNumber.py&lt;/strong&gt; : Coloca número de página a los PDFs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV_Maker.py&lt;/strong&gt;  : Archivo principal que genera el *.docx y *.pdf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para la ejecución se posiciona en la carpeta y ejecutar el comando:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python Merge_PDF.py
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;resultado&#34;&gt;Resultado&lt;/h2&gt;
+&lt;p&gt;Una vez ejecutado, se generarán 2 archivos en la carpeta &lt;em&gt;CV_Template_result.docx&lt;/em&gt; y &lt;em&gt;CV_Combinado.pdf&lt;/em&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./ejemploSalida.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CV_Template_result.docx&lt;/em&gt; contiene la información del Curriculum mientras &lt;em&gt;CV_Combinado.pdf&lt;/em&gt; contiene los documentos ordenado basado en la información de &lt;em&gt;Template_CV.xlsx&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CV_Template_result.docx&lt;/em&gt; puede ser alterado a preferencia del usuario, y una vez convertido a pdf, se puede utilizar aplicaciones como &lt;em&gt;PDFsam&lt;/em&gt; para combinar los 2 archivos. En caso de no usar el número de página, puede usar el archivo &lt;em&gt;temp.pdf&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;código&#34;&gt;Código&lt;/h2&gt;
+&lt;p&gt;El código completo se puede encontrar en el siguiente &lt;a href=&#34;https://github.com/germaingarcia/CV_documentado_python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

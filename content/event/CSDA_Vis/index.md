@@ -32,6 +32,6 @@ title: CSDA-VIS, Sistema visual interactivo para la detección temprana del aban
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1Abl9r9mC4mYif9BMsv9r-ezK1oCIpeQ4/view?usp=share_link"
 ---
 
