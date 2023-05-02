@@ -8,10 +8,10 @@ education:
   - course:  MSc in Computer Science
     institution: Universidad Católica San Pablo de Arequipa (UCSP) - PERU
     year: 2016
-  - course: Engr in System Engeniering
+  - course: Engr in System Engineering
     institution: Universidad Nacional de San Antonio Abad del Cusco (UNSAAC) - PERU
     year: 2012
-  - course: BSc in System Engeniering
+  - course: BSc in System Engineering
     institution: Universidad Nacional de San Antonio Abad del Cusco (UNSAAC) - PERU
     year: 2012
 email: "germaingarcia17@gmail.com"
