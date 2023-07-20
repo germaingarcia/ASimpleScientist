@@ -28,11 +28,23 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - company: UTEC
+      company_logo: logo-utec
+      company_url: "https://utec.edu.pe/"
+      date_end: ""
+      date_start: "2023-07-01"
+      description: |2-
+          Responsibilities include:
+
+          * Researcher
+          * Professor Data Science Program
+      location: Lima - PERU
+      title: University Professor - Researcher
     - company: UNSAAC
       company_logo: logo-unsaac
       company_url: "https://www.unsaac.edu.pe/"
-      date_end: ""
-      date_start: "2021-09-01"
+      date_end: "2022-09-01"
+      date_start: "2022-06-01"
       description: |2-
           Responsibilities include:
 
@@ -103,28 +115,28 @@ sections:
 #    columns: "2"
   
   #................................................................................................
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
+#- block: collection
+#  content:
+#    count: 5
+#    filters:
+#      author: ""
+#      category: ""
+#      exclude_featured: false
+#      exclude_future: false
+#      exclude_past: false
+#      folders:
+#      - post
+#      publication_type: ""
+#      tag: ""
+#    offset: 0
+#    order: desc
+#    subtitle: ""
+#    text: ""
+#    title: Recent Posts
+#  design:
+#    columns: "2"
+#    view: compact
+#  id: posts
 
 #................................................................................................
 - block: portfolio
