@@ -24,9 +24,9 @@ interests:
 - Visualization for Social Good
 last_name: Garcia-Zanabria
 organizations:
-- name: Sao Paulo University
-  url: https://www.icmc.usp.br/
-role: Computer Scientist | Data Scientist
+- name: UTEC University
+  url: https://utec.edu.pe/
+role: Computer Scientist | Data Scientist | Researcher
 social:
 - icon: envelope
   icon_pack: fas
